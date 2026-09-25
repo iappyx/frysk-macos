@@ -49,7 +49,7 @@ use `--file`.
 ## Limitations
 
 - **Microsoft Word for Mac** uses its own spell checker and is not covered. For
-  Word, you can use [Iepen Fryske Stavering](https://iappyx.github.io/frysk-word/) (also by iappyx).
+  Word, you can use [Iepen Fryske Stavering](https://iappyx.github.io/iepen-fryske-stavering/) (also by iappyx).
 - **Firefox and LibreOffice** have their own spell checkers too. Install the
   Akademy's Mozilla or LibreOffice add-on in those programs directly.
 - The word list is **version 2016-07-22**, so words added to Frisian since then
